@@ -50,10 +50,10 @@ setTimeout(function(){
 
 
 setTimeout(function(){
-    document.getElementById("viego2").play();
+    document.getElementById("viego").play();
     
     
-}, 2000)
+}, 4000)
 
 
 
