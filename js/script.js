@@ -49,6 +49,12 @@ setTimeout(function(){
 
 
 
+setTimeout2(function(){
+    document.getElementById("viego2").play();
+    
+    
+}, 2000)
+
 
 
 /*
