@@ -39,6 +39,7 @@ function pauseAudio(){
     audio.play();
     
 }
+  
 
 
 
@@ -48,22 +49,21 @@ setTimeout(function(){
   }, 40000)
 
 
-
+/*
 setTimeout(function(){
     document.getElementById("viego").play();
     document.getElementById("viego").muted= false;
-    
     
     
 }, 4000)
 
 
 
-/*
+
  minhaMusica = new Audio();
 
 
-/*
+
 minhaMusica.src = './music/viego.mp3'
 minhaMusica.currentTime = 0;
 minhaMusica.play();
