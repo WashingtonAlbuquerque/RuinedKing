@@ -232,10 +232,17 @@ main {
 .music{
     display: block;
     margin-top: 2em;
-    font-size: 0.1em;
+    font-size: 0.7em;
     color: var(--medium-grey);
     cursor: pointer;
     
    
 }
+
+.music:hover{
+    color: black;
+    
+}
+
+
 
