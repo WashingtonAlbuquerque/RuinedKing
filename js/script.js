@@ -49,7 +49,7 @@ setTimeout(function(){
 
 
 
-setTimeout2(function(){
+setTimeout(function(){
     document.getElementById("viego2").play();
     
     
