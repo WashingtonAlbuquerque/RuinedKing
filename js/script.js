@@ -51,6 +51,8 @@ setTimeout(function(){
 
 setTimeout(function(){
     document.getElementById("viego").play();
+    document.getElementById("viego").muted= false;
+    
     
     
 }, 4000)
