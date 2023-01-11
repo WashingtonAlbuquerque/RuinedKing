@@ -241,6 +241,7 @@ main {
 
 .music:hover{
     color: black;
+    transition: all 200ms ease;
     
 }
 
