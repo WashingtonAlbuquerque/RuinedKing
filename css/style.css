@@ -222,7 +222,7 @@ main {
 
 .wallpaper {
     width: 100%;
-   background-image: url(/Imagens/viegogit.gif);
+   background-image: url(../Imagens/viegogit.gif);
     background-size: cover;
     background-position: center;
     flex: 1;
