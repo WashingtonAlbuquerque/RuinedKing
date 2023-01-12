@@ -49,7 +49,6 @@ setTimeout(function(){
   }, 40000)
 
 
-/*
 setTimeout(function(){
     document.getElementById("viego").play();
     document.getElementById("viego").muted= false;
@@ -58,7 +57,7 @@ setTimeout(function(){
 }, 4000)
 
 
-
+/*
 
  minhaMusica = new Audio();
 
