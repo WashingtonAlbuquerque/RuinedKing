@@ -56,7 +56,7 @@ setTimeout(function(){
     
 }, 4000)
 
-
+*/
 /*
 
  minhaMusica = new Audio();
