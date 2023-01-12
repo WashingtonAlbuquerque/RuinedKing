@@ -36,7 +36,7 @@ inputs.forEach((input) => input.addEventListener("input", handleChange));
 var audio = document.getElementById("viego");
 
 function pauseAudio(){
-    audio.play();
+    audio.pause();
     
 }
   
